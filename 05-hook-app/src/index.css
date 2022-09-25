@@ -1,0 +1,9 @@
+body {
+  margin: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1rem;
+}
+
+button {
+  margin-right: 10px;
+}
